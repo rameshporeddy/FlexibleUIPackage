@@ -1,6 +1,6 @@
 {
     "name": "com.rameshporeddy.flexibleui",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "FlexibleUI",
     "description": "FlexibleUI Allows You to Implement Multiple GUI Theme by Using Scriptable Obejcts.",
     "unity": "2018.3",
