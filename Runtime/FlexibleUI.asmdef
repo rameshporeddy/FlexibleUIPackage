@@ -1,3 +1,15 @@
-﻿{
-	"name": "FlexibleUI"
+{
+    "name": "FlexibleUI",
+    "references": [
+        "GUID:98a6b750412745140a489a81d8da1050"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
